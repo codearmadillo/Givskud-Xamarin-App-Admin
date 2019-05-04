@@ -27,3 +27,6 @@
 
 # Ignore VS files
 **/.vs/
+
+# Ignore Umbraco database file
+*.sdf
